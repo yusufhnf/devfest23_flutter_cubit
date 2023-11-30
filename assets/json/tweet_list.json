@@ -1,0 +1,66 @@
+{
+    "success": true,
+    "errorMessage": null,
+    "result": [
+        {
+            "tweetId": 1,
+            "tweet": "Ready to work",
+            "likeCount": 2,
+            "retweetCount": 3,
+            "user": {
+                "userId": 2,
+                "username": "spongebob",
+                "fullname": "Spongebob Squarepants",
+                "userImage": "https://static.wikia.nocookie.net/spongebob/images/6/63/SpongeBob_SquarePants_stock_art.png"
+            }
+        },
+        {
+            "tweetId": 2,
+            "tweet": "Ready to cook Krabby Patty",
+            "likeCount": 6,
+            "retweetCount": 1,
+            "user": {
+                "userId": 2,
+                "username": "spongebob",
+                "fullname": "Spongebob Squarepants",
+                "userImage": "https://static.wikia.nocookie.net/spongebob/images/6/63/SpongeBob_SquarePants_stock_art.png"
+            }
+        },
+        {
+            "tweetId": 3,
+            "tweet": "Arrrgh, meet spongebob again",
+            "likeCount": 0,
+            "retweetCount": 2,
+            "user": {
+                "userId": 3,
+                "username": "squidward",
+                "fullname": "Squidward Tentacles",
+                "userImage": "https://static.wikia.nocookie.net/spongebob/images/0/0e/Squidward_Tentacles_stock_art.png/revision/latest?cb=20181202213154&path-prefix=id"
+            }
+        },
+        {
+            "tweetId": 4,
+            "tweet": "W for wumbo, M for Mumbo",
+            "likeCount": 2,
+            "retweetCount": 5,
+            "user": {
+                "userId": 4,
+                "username": "pattrick",
+                "fullname": "Pattrick Star",
+                "userImage": "https://static.wikia.nocookie.net/spongebob/images/1/18/Patrick_Star_stock_art.png/revision/latest?cb=20181202213928&path-prefix=id"
+            }
+        },
+        {
+            "tweetId": 5,
+            "tweet": "Ready to rich",
+            "likeCount": 2,
+            "retweetCount": 32,
+            "user": {
+                "userId": 5,
+                "username": "mrkrabs",
+                "fullname": "Eugene Krab",
+                "userImage": "https://static.wikia.nocookie.net/spongebob/images/7/7b/Krabs_artwork.png"
+            }
+        }
+    ]
+}

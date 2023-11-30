@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "errorMessage": null,
+    "result": [
+        {
+            "notificationId": 1,
+            "notificationText": "Spongebob Squarepants like your tweet"
+        },
+        {
+            "notificationId": 2,
+            "notificationText": "Spongebob Squarepants follow you"
+        },
+        {
+            "notificationId": 3,
+            "notificationText": "Plankton create new tweet"
+        },
+        {
+            "notificationId": 4,
+            "notificationText": "Eugene Krab follow you"
+        },
+        {
+            "notificationId": 5,
+            "notificationText": "Spongebob like your tweet"
+        }
+    ]
+}
